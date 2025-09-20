@@ -92,5 +92,6 @@ http://localhost:5173/
 4️⃣ Build for Production
 npm run build
 
-📸 Screenshot (Screenshot (437).png)
+📸 Screenshot(Hospital_Equipments_Management_System_UI_Dashboard
+/Screenshot (437).png
 
