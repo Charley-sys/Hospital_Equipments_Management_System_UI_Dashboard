@@ -94,5 +94,3 @@ npm run build
 
 📸 Screenshot (Sample)
 
-Add your dashboard screenshot here once ready
-Example:
