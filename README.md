@@ -41,19 +41,30 @@ It focuses purely on the **frontend user interface** for demonstration purposes.
 
 ## 📂 Project Structure
 
+
 hospital-dashboard/
+
 ├── src/
+
 │ ├── components/
+
 │ │ ├── Sidebar.jsx
+
 │ │ ├── Topbar.jsx
+
 │ │ ├── StatsCards.jsx
+
 │ │ ├── EquipmentTable.jsx
+
 │ │ ├── EquipmentChart.jsx
+
 │ │ └── MaintenanceModal.jsx
+
 │ ├── App.jsx
 │ ├── index.css
 │ └── main.jsx
 ├── public/
+
 ├── package.json
 └── README.md
 
