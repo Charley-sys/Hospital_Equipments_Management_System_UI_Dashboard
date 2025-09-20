@@ -92,4 +92,4 @@ http://localhost:5173/
 4️⃣ Build for Production
 npm run build
 
-📸 Screenshot(https://github.com/Charley-sys/Hospital_Equipments_Management_System_UI_Dashboard/tree/main
+📸 Screenshot ( https://github.com/Charley-sys/Hospital_Equipments_Management_System_UI_Dashboard/blob/main/Screenshot%20(437).png )
