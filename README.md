@@ -70,6 +70,8 @@ hospital-dashboard/
 Click to view the UI Dashboard
 ## 📸 Screenshot ( https://github.com/Charley-sys/Hospital_Equipments_Management_System_UI_Dashboard/blob/main/Screenshot%20(437).png )
 
+## https://github.com/Charley-sys/Hospital_Equipments_Management_System_UI_Dashboard/blob/main/Screenshot%20(439).png
+
 ---
 
 ## 🚀 Getting Started
